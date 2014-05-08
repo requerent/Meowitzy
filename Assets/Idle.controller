@@ -571,7 +571,7 @@ State:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Falling
+  m_Name: Fall
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
@@ -587,7 +587,7 @@ State:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Knocked Down
+  m_Name: Knock
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
@@ -603,7 +603,7 @@ State:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Stand Up
+  m_Name: Stand
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
@@ -635,7 +635,7 @@ State:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Weapon Swap
+  m_Name: Swap
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
@@ -815,7 +815,7 @@ StateMachine:
       - {fileID: 110191701}
       - {fileID: 110133060}
   m_MotionSetCount: 1
-  m_AnyStatePosition: {x: 192, y: -96, z: 0}
+  m_AnyStatePosition: {x: 228, y: -204, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
 --- !u!1107 &110773867
 StateMachine:
